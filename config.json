@@ -15,7 +15,7 @@
   "OTPKEY": "Facebook 2FA Secret Key",
   "BOTNAME": "𝐑𝐀𝐓𝐔𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
   "PREFIX": "/",
-  "usePrefix": false,
+  "usePrefix": true,
   "reactUnsend": [
     "😡",
     "🤧",
