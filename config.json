@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐑𝐀𝐓𝐔𝐋 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "𝗥𝗔𝗧𝗨𝗟 𝗘𝗥 𝗕𝗢𝗨",
   "PREFIX": "/",
   "usePrefix": true,
   "reactUnsend": [
@@ -24,7 +24,7 @@
   ],
   "ADMINBOT": [
     "61594359606799",
-    "61594359606799",
+    "61588790494108",
     "61588790494108"
   ],
   "DEVELOPER": [
