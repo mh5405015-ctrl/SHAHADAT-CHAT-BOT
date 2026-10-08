@@ -8,7 +8,7 @@ module.exports.config = {
   usePrefix: true,
   version: "2.2.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "RATUL",
   description: "Shows all commands with details",
   commandCategory: "system",
   usages: "[command name/page number]",
@@ -30,10 +30,10 @@ module.exports.languages = {
 };
 
 const helpImages = [
-  "https://i.imgur.com/cwd64Av.jpeg",
-  "https://i.imgur.com/hPtliXo.jpeg",
-  "https://i.imgur.com/L7txp4M.jpeg",
-  "https://i.imgur.com/5dG8PS5.jpeg"
+  "https://i.postimg.cc/PJLvYtq9/IMG-20260909-193503-878.jpg",
+  "https://i.postimg.cc/PJLvYtq9/IMG-20260909-193503-878.jpg",
+  "https://i.postimg.cc/PJLvYtq9/IMG-20260909-193503-878.jpg",
+  "https://i.postimg.cc/PJLvYtq9/IMG-20260909-193503-878.jpg"
 ];
 
 function getPrefix(threadID) {
@@ -232,7 +232,7 @@ ${msg}
 ┃ 🤖 Bot Name:
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ 𝗥𝗔𝗧𝗨𝗟
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
