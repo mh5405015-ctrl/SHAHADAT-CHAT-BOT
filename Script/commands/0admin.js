@@ -5,7 +5,7 @@ module.exports.config = {
   aliases: ["adminmanage", "adminsystem", "adminaccess", "admincontrol", "adm", "aadmin", "setadmin"],
   version: "2.0.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "RATUL",
   description: "Admin Management System",
   commandCategory: "Admin",
   usages: "[list | add | remove] [uid | @mention | reply]",
