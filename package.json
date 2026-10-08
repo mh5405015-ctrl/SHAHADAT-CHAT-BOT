@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "RATUL",
   "version": "3.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "RATUl",
   "main": "Main.js",
   "engines": {
     "node": "22.x",
@@ -26,7 +26,7 @@
     "shahadat sahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Ratul",
   "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
