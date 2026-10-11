@@ -4,7 +4,7 @@ module.exports.config = {
   name: "onlyadmin",
   version: "3.0.0",
   hasPermssion: 2,
-  credits: "SHADAHAT SAHU",
+  credits: "𝗥𝗔𝗧𝗨𝗟",
   description: "Admin only mode toggle",
   commandCategory: "Admin",
   usages: "onlyadmin [on/off]",
