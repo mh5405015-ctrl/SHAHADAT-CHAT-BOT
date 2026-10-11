@@ -8,7 +8,7 @@ module.exports.config = {
  aliases: ["admininfo", "infoadmin"],
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "𝗥𝗔𝗧𝗨𝗟",
  description: "Show Owner Info",
  commandCategory: "info",
  usages: "admin",
