@@ -6,7 +6,7 @@ module.exports.config = {
   aliases: ["ownerinfo", "owners"],
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝗥𝗔𝗧𝗨𝗟",
   description: "Show Owner Info with random photo",
   commandCategory: "Information",
   usages: "owner",
