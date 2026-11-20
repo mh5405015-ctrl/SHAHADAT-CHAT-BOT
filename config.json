@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝗥𝗔𝗧𝗨𝗟 𝗘𝗥 𝗕𝗢𝗨",
+  "BOTNAME": "𝗥𝗧𝗭 𝗥𝗔𝗧𝗨𝗟",
   "PREFIX": "/",
   "usePrefix": true,
   "reactUnsend": [
